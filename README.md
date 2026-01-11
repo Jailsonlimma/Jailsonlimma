@@ -2,10 +2,10 @@
 
 **`Desenvolvedor em formação | ADS`**
 
-Me chamo Jailson Lima e sou estudante de Análise e Desenvolvimento de Sistemas.
-Tenho experiência com design gráfico e produção em gráfica, o que me deu uma boa base visual e atenção a detalhes.
-Atualmente estou focado em desenvolvimento web, estudando e criando projetos práticos com JavaScript, buscando minha primeira oportunidade na área de TI.
-Compartilho meus aprendizados e projetos aqui no GitHub enquanto evoluo como dev.
+Me chamo Jailson Lima e sou estudante de Análise e Desenvolvimento de Sistemas.</br>
+Tenho experiência com design gráfico e produção em gráfica, o que me deu uma boa base visual e atenção a detalhes.</br>
+Atualmente estou focado em desenvolvimento web, estudando e criando projetos práticos com JavaScript, buscando minha primeira oportunidade na área de TI.</br>
+Compartilho meus aprendizados e projetos aqui no GitHub enquanto evoluo como dev.</br>
 
 
 ### 🤖 Linguagens e Tecnologias
